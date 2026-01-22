@@ -8,41 +8,41 @@ export const Container = styled.div`
 `;
 export const UserImageContainer = styled.div`
   /* border: solid 1px black; */
-    width: 100%;
-    height:200px;
-    display: flex;
-    justify-content: center;
-`
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+`;
 export const Img = styled.img`
   /* border: solid 1px black; */
-    width: 200px;
-    height:200px;
-    border-radius: 50%;
-`
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+`;
 export const UserId = styled.div`
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-`
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+`;
 export const UserEmail = styled.div`
-    display: flex;
-    justify-content: center;
-    font-family: "GmarketSansLight";
+  display: flex;
+  justify-content: center;
+  font-family: "GmarketSansLight";
   font-size: 14px;
   color: gray;
   margin-top: 4px;
   margin-bottom: 20px;
-`
+`;
 export const BookMarkContainer = styled.div`
-/* width: 100%; */
-border: solid 1px black;
-height: auto;
+  /* width: 100%; */
+  border: solid 1px black;
+  height: auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 60px;
   border-top: solid 1px #eee;
   padding-top: 20px;
-`
+`;
 export const ProductBox = styled.div`
   /* border: solid 1px black; */
   display: flex;
@@ -51,14 +51,13 @@ export const ProductBox = styled.div`
   flex-direction: column;
   padding: 10px;
 `;
-export const BookImg = styled.img` 
-width: 100%;
-height: 100%;
-display: flex;
-box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-border-radius: 4px;
+export const BookImg = styled.img`
+  width: 100%;
+  height: 100%;
+  display: flex;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
   /* border: solid 1px black; */
-
 `;
 export const ProductText = styled.div`
   /* border: solid 1px white; */
@@ -80,5 +79,5 @@ export const NullText = styled.div`
   border-top: solid 1px #eee;
   padding-top: 20px;
   display: flex;
-justify-content: center;
-`
+  justify-content: center;
+`;
