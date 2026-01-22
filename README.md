@@ -12,7 +12,7 @@
 | **핵심 기술** | Next.js(TS), NestJS(TS), Python, MariaDB, Docker |
 | **아키텍처** | Polyglot Backend (NestJS + Python) |
 | **주요 도전** | Docker Compose를 통한 컨테이너 오케스트레이션 및 데이터 트랜잭션 관리 |
-| **상태** | **대공사 진행 중 (Vite → Next.js 전환 및 Docker 도입 중)** |
+| **상태** | ** Next.js 전환 및 Docker 도입 ** |
 
 ---
 
