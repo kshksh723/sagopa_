@@ -13,3 +13,5 @@
 <img width="1280" height="509" alt="Untitled (9)" src="https://github.com/user-attachments/assets/147b62c2-5a44-420d-ab1b-58d247ef28b7" /> |
 
 
+### 주요 기능
+1. Firebase를 활용한 실시간 데이터 연동
