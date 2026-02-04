@@ -14,4 +14,5 @@
 
 
 ### 주요 기능
-1. Firebase를 활용한 실시간 데이터 연동
+1. [Firebase를 활용한 실시간 데이터 연동](https://github.com/kshksh723/sagopa_/blob/main/src/firebase.js)
+Firebase를 활용하여 실시간 데이터베이스와 인증, 스토리지 기능을 구현했습니다. 
